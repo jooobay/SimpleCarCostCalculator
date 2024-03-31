@@ -19,3 +19,7 @@ dotnet run
 Browse to https://localhost:5001 to see the working app. 
 
 At the first run, it takes a little while before all dependencies are resolved. Just have a little patience. After the first run, things are much faster.
+
+Nice to have in future :
+- Object category could have been created to force a better model architecture, Categories are strored in appsettings.json
+- Unit Tests
